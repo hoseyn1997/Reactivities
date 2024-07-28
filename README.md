@@ -1,0 +1,1 @@
+•	A simple web application for sharing daily activities with other people, like Instagram and twitter. used React Js with typescript, sematic-ui-react, react-router-dom for the client side and also, I have used Aps .Net Core Web Api for server side. 
